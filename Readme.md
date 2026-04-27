@@ -1,14 +1,5 @@
 <div align="center">
 
-```
- ██╗  ██╗██╗  ██╗██╗███╗   ███╗ ██████╗ ██╗   ██╗███╗   ███╗
- ██║ ██╔╝██║  ██║██║████╗ ████║██╔═══██╗██║   ██║████╗ ████║
- █████╔╝ ███████║██║██╔████╔██║██║   ██║██║   ██║██╔████╔██║
- ██╔═██╗ ██╔══██║██║██║╚██╔╝██║██║   ██║██║   ██║██║╚██╔╝██║
- ██║  ██╗██║  ██║██║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
-```
-
 ### `~/` Security & Networks · Python Developer · CTF Player
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_20%25-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
