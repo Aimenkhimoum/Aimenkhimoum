@@ -25,11 +25,11 @@ class AimenKhimoum:
 
     def bio(self):
         return """
-        Passionné par les infrastructures réseau et la sécurité offensive,
-        je construis mon profil autour de la pratique continue.
-        J'aime comprendre le fonctionnement profond des systèmes
-        pour mieux les sécuriser — des couches protocolaires
-        jusqu'aux vecteurs d'exploitation.
+       Passionné par le développement logiciel, le DevOps, le Cloud et la cybersécurité, je construis mon profil autour de projets concrets mêlant conception,
+       automatisation et déploiement. J'apprécie particulièrement concevoir des applications robustes, orchestrer leur déploiement avec des outils modernes
+       et comprendre les infrastructures qui les font fonctionner, du code jusqu'à la production.
+
+
         """
 ```
 
