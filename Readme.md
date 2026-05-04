@@ -1,6 +1,6 @@
 <div align="center">
 
-### `~/` Security & Networks · Python Developer · CTF Player
+### `~/` Security & Networks · DevOps & Developer · CTF Player
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_20%25-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aimen_Khimoum-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimen-khimoum-315588306/)
@@ -19,7 +19,7 @@ class AimenKhimoum:
         self.name       = "Mohamed Aimen KHIMOUM"
         self.education  = "L2 Informatique — Université Sorbonne Paris Nord"
         self.location   = "Paris, France 🇫🇷"
-        self.focus      = ["Offensive Security", "Network Infrastructure", "Python Dev"]
+        self.focus      = ["Offensive Security", "DevOps", "Cloud"]
         self.ctf        = {"TryHackMe": "Top 20%", "Root-Me": "active"}
         self.available  = True  # open to internships & apprenticeships
 
