@@ -20,7 +20,7 @@ class AimenKhimoum:
         self.education  = "L2 Informatique — Université Sorbonne Paris Nord"
         self.location   = "Paris, France 🇫🇷"
         self.focus      = ["Offensive Security", "DevOps", "Cloud"]
-        self.ctf        = {"TryHackMe": "Top 20%", "Root-Me": "active"}
+        self.ctf        = {"TryHackMe": "Top 15%", "Root-Me": "active"}
         self.available  = True  # open to internships & apprenticeships
 
     def bio(self):
@@ -185,7 +185,7 @@ Snake en C exploitant les **Linked Lists** pour les structures dynamiques. Gesti
 
 | Plateforme | Statut | Focus |
 |-----------|--------|-------|
-| 🟥 **TryHackMe** | `Top 20%` | Web, Network, Linux, Crypto |
+| 🟥 **TryHackMe** | `Top 15%` | Web, Network, Linux, Crypto |
 | 🔵 **Root-Me** | `Actif` | Web, Réseau, Système, Forensique |
 
 </div>
